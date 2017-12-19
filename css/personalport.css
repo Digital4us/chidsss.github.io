@@ -1,0 +1,69 @@
+
+.container{
+    padding-top:70px;
+    padding-bottom:70px;
+}
+.bg-1{
+background: url(https://cdn.pixabay.com/photo/2016/09/08/12/00/starry-sky-1654074_960_720.jpg);
+color:#FFC;
+opacity: 0.95;
+}
+.bg-2{
+background-color:#606060;
+color:#FFC;
+}
+.bg-3{
+background-color:#900;
+color:#FFc;
+}
+
+	
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+    color:#C99494 !important;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.fa{
+    padding:20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.fa:hover{
+    opacity: 0.6;
+}
+
+#aboutMe{
+    border: 3px solid #D3E7E0;
+    height: 50px;
+    background-color: black;
+    width: 20%;
+}
+img{
+  width: 120px;
+  height: 70px;
+  align-content: center;  
+}
+.about{
+    text-align: center;
+}
+.progress-bar{
+    background: #080505;
+}
